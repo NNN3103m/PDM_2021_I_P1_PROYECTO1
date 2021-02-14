@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PDM_2021_I_P1_PROYECTO1</string>
+    <string name="init_word">_ _ _ _ _ _ _</string>
+    <string name="new_game">NUEVO JUEGO</string>
+    <string name="you_win">¡HAS GANADO!</string>
+    <string name="you_lose">HAS PERDIDO...</string>
+    <string name="game_is_ended">REINTENTALO</string>
+    <string name="word_to_find">LA PALABRA ERA: #word#</string>
+    <string name="try_an_other">INTENTA OTRA LETRA</string>
+    <string name="letter_already_entered">ÉSTA LETRA YA HA SIDO INGRESADA</string>
+
 </resources>
